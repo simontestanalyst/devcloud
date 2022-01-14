@@ -1,4 +1,4 @@
 # devcloud
 {
-    
+    key:"value"
 }
