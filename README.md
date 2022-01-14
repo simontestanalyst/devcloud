@@ -1,4 +1,3 @@
 # devcloud
-{
-    key:"value"
-}
+### Recap Git basics
+> Tutorial
